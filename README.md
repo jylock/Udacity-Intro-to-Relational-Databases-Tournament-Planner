@@ -1,7 +1,8 @@
 # Udacity-Intro-to-Relational-Databases-Tournament-Planner
-Udacity Web Development Course
+<h2>Udacity Web Development Course</h2>
 Intro to Relational Databases 
 Final Project: Tournament Planner
+
 Project Description: Tournament Planner
 In this project, you’ll be writing a Python module that uses the PostgreSQL database to keep track of players and matches in a game tournament.
 
